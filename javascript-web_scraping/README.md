@@ -1,6 +1,6 @@
 # javascript
 ## author
-loue Sauveur Christian
+Pendo Vestine
 
 ###General
 Why JavaScript programming is amazing
