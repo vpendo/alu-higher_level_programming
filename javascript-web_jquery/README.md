@@ -1,3 +1,3 @@
 # javascript
 ## author
-loue Sauveur Christian
+Pendo Vestine
